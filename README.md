@@ -3,5 +3,5 @@
 ## popis_projektu
 krokový motor
 -> Tohle je komentář 
--věc1
--věc2
+- věc1
+- věc2
